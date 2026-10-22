@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ferramentas técnicas de fios | Luma Fios Especiais</title>
+<meta name="description" content="Converta Nm, Tex, dtex, denier e Ne algodão e crie um briefing técnico para projetos de fios para malharia retilínea.">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#123b31">
+<meta property="og:type" content="website"><meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Ferramentas técnicas de fios | Luma Fios Especiais"><meta property="og:description" content="Converta Nm, Tex, dtex, denier e Ne algodão e crie um briefing técnico para projetos de fios para malharia retilínea.">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/style.css"><link rel="stylesheet" href="../assets/calculadoras.css">
+<script src="../assets/config.js" defer></script><script src="../assets/site.js" defer></script><script src="../assets/calculadoras.js" defer></script>
+
+</head>
+<body>
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<header class="header"><div class="container nav"><a class="brand" href="../" aria-label="Luma Fios Especiais, página inicial"><span class="logo" aria-hidden="true">L</span><span><span class="brand-name">LUMA FIOS</span><span class="brand-sub">Especiais • Malharia retilínea</span></span></a>
+<button class="mobile-menu" id="menuToggle" aria-controls="navlinks" aria-expanded="false">Menu</button>
+<nav class="navlinks" id="navlinks" aria-label="Menu principal">
+<a href="../empresa/">Empresa</a><a href="../fios/">Fios</a><a href="../servicos/retorcao-de-fios/">Processos</a><a href="../biblioteca/">Biblioteca</a><a href="../ferramentas/" aria-current="page">Ferramentas</a>
+<a class="navbtn" href="../contato/">Solicitar contato ↗</a>
+</nav></div></header>
+<main id="main"><div class="page-intro"><div class="container"><div class="crumb"><a href="../">Início</a> / Ferramentas técnicas</div><p class="eyebrow">Luma Fios Especiais · Conhecimento têxtil</p><h1>Ferramentas técnicas</h1><p>Converta títulos lineares e prepare o briefing do seu projeto sem precisar instalar programas. Os cálculos são teóricos e as informações ficam no seu navegador.</p></div></div><section class="section"><div class="container"><section id="calculadoras" style="background-color: #e2e8f0; border-radius: 16px;">
+        <div class="section-header">
+            <h2>Ferramentas Técnicas para Malharia Retilínea</h2>
+            <p>Calculadoras exclusivas desenvolvidas pela engenharia da Luma Fios para conversão de títulos e recomendação de galgas (incluindo finuras 16 e 18).</p>
+        </div>
+
+        <div class="grid-2">
+            <!-- Calculadora 1: Conversão de Títulos + Sugestão de Galga -->
+            <div class="calc-box">
+                <h3>1. Conversor de Títulos + Sugestão Automática de Galga</h3>
+                <p style="font-size: 0.9rem; margin-bottom: 1rem; color: #475569;">Converta entre Nm, Ne, Tex, dtex e Denier e receba na hora a recomendação de galga e número de cabos para máquinas retilíneas.</p>
+                
+                <div class="form-group">
+                    <label for="sistemaOrigem">Sistema de Origem:</label>
+                    <select id="sistemaOrigem">
+                        <option value="nm">Nm (Número Métrico - Ex: para 2/29 Nm, digite 29 e 2 cabos)</option>
+                        <option value="dtex">dtex (Decitex - Ex: 500 dtex)</option>
+                        <option value="tex">Tex (Gramas por 1.000m)</option>
+                        <option value="den">Denier (Gramas por 9.000m)</option>
+                        <option value="ne">Ne (Título Inglês de Algodão)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="numCabos">Número de Cabos do Fio (Ex: 1 para 1/34, 2 para 2/29):</label>
+                    <input type="number" id="numCabos" value="1" min="1" max="10" step="1">
+                </div>
+
+                <div class="form-group">
+                    <label for="valorTitulo">Valor do Título Base (Ex: 29 para 2/29 Nm, ou 500 para 500 dtex):</label>
+                    <input type="number" id="valorTitulo" placeholder="Digite o valor numérico..." step="any">
+                </div>
+
+                <button type="button" class="btn-calc" onclick="converterTitulo()">Calcular Equivalências e Galga Ideal</button>
+
+                <div id="resultadoTitulo" class="calc-result" role="status" aria-live="polite" aria-atomic="true"></div>
+            </div>
+
+            <!-- Calculadora 2: Recomendação por Galga Shima Seiki (5 a 18) -->
+            <div class="calc-box">
+                <h3>2. Consultor de Fios por Galga (Shima Seiki GG 5 a GG 18)</h3>
+                <p style="font-size: 0.9rem; margin-bottom: 1rem; color: #475569;">Selecione a finura (Gauge) da sua máquina retilínea para visualizar a faixa de título ideal (Nm e dtex) e os fios Luma recomendados.</p>
+
+                <div class="form-group">
+                    <label for="galgaShima">Selecione a Galga da Máquina Retilínea:</label>
+                    <select id="galgaShima">
+                        <option value="5">Galga 5 (GG 5 - Tricô Pesado / Inverno)</option>
+                        <option value="7">Galga 7 (GG 7 - Malharia Estruturada)</option>
+                        <option value="10">Galga 10 (GG 10 - Meia-Estação / Versátil)</option>
+                        <option value="12" selected>Galga 12 (GG 12 - Padrão Alta Moda / Malha Fina)</option>
+                        <option value="14">Galga 14 (GG 14 - Malharia Fina / Toque Segunda Pele)</option>
+                        <option value="16">Galga 16 (GG 16 - Ultrafina / Alta Costura)</option>
+                        <option value="18">Galga 18 (GG 18 - Finura Extrema / Equivalente Circular)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="estruturaPonto">Estrutura Principal da Malha:</label>
+                    <select id="estruturaPonto">
+                        <option value="jersey">Jersey / Meia-Malha (Ponto Liso)</option>
+                        <option value="canelado">Canelado / Rib / Ottomano (Estruturado)</option>
+                        <option value="jacquard">Jacquard / Intarsia (Multicores)</option>
+                    </select>
+                </div>
+
+                <button type="button" class="btn-calc" onclick="recomendarPorGalga()">Consultar Especificação para a Máquina</button>
+
+                <div id="resultadoGalga" class="calc-result" role="status" aria-live="polite" aria-atomic="true"></div>
+            </div>
+        </div>
+    <p class="calc-note">As sugestões de galga são referências iniciais. Valide o fio, a estrutura e a regulagem por amostra de tecimento; a conversão não considera encurtamento por torção ou acabamento.</p></section><div class="tool-panel"><h2>Gerador de briefing técnico</h2><p class="subtle">Reúna dados para uma conversa com a equipe. A mensagem pode ser copiada ou enviada pelo canal oficial quando ele estiver configurado.</p><div class="form-grid"><div class="field"><label for="briefMachine">Máquina / modelo</label><input id="briefMachine" placeholder="Ex.: tear retilíneo, marca/modelo"></div><div class="field"><label for="briefGauge">Galga</label><select id="briefGauge"><option value="Não informada">Não informada</option><option>5</option><option>7</option><option>10</option><option>12</option><option>14</option><option>16</option><option>18</option><option>Outra / confirmar</option></select></div><div class="field"><label for="briefStructure">Estrutura</label><input id="briefStructure" placeholder="Ex.: jersey, canelado, jacquard"></div><div class="field"><label for="briefYarn">Fio / composição atual</label><input id="briefYarn" placeholder="Ex.: viscose e elastano, 2/29 Nm"></div><div class="field"><label for="briefQty">Quantidade e cor</label><input id="briefQty" placeholder="Ex.: 300 kg, preto"></div><div class="field"><label for="briefGoal">Objetivo</label><select id="briefGoal"><option>Selecionar fio de linha</option><option>Avaliar toque e caimento</option><option>Avaliar elasticidade</option><option>Desenvolver composição</option><option>Reduzir rupturas</option><option>Avaliar tingimento</option><option>Outro</option></select></div><div class="field full"><label for="briefDetails">Detalhes e critérios de aprovação</label><textarea id="briefDetails" placeholder="Descreva o resultado esperado e problemas observados."></textarea></div></div><div class="inline-btns"><button id="briefMake" class="btn" type="button">Gerar briefing ↗</button><button id="briefCopy" class="btn secondary" type="button" hidden>Copiar texto</button><a class="btn secondary" id="briefWA" href="#" target="_blank" rel="noopener" hidden>Abrir WhatsApp</a><a class="btn secondary" id="briefEmail" href="#" hidden>Abrir e-mail</a></div><pre id="briefOutput" class="result-output" hidden></pre></div></div></section></main>
+<footer class="footer"><div class="container"><div class="footer-grid">
+<div><a class="brand" href="../" style="color:white"><span class="logo" aria-hidden="true">L</span><span><span class="brand-name">LUMA FIOS</span><span class="brand-sub" style="color:#bcd3c5">Fios especiais para malharia retilínea</span></span></a><p>Produção de fios, retorção e tingimento com foco nas necessidades de quem desenvolve e fabrica malhas. Informações técnicas de produtos sujeitas a confirmação comercial.</p><p class="tiny"><span data-city>Americana – SP</span> <span data-address hidden></span></p></div>
+<div><h3>Explorar</h3><a href="../fios/">Portfólio de fios</a><a href="../servicos/retorcao-de-fios/">Retorção</a><a href="../servicos/tingimento-de-fios/">Tingimento</a><a href="../desenvolvimento-de-fios/">Desenvolvimento</a><a href="../ferramentas/">Ferramentas técnicas</a></div>
+<div><h3>Informações</h3><a href="../empresa/">Quem somos</a><a href="../biblioteca/">Biblioteca</a><a href="../perguntas-frequentes/">Perguntas frequentes</a><a href="../contato/">Contato</a><a href="../privacidade/">Privacidade</a><a href="../termos/">Informações legais</a></div></div>
+<div class="footer-base">© <span data-year>2026</span> Luma Fios Especiais. Conteúdo técnico para orientação inicial; a ficha aprovada e os testes na malha prevalecem.</div></div></footer>
+</body></html>

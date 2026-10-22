@@ -1,0 +1,231 @@
+{
+  "version": "3.0",
+  "source": "Luma_Fios_Site_Expandido_V2.html",
+  "total_pages": 32,
+  "products": [
+    {
+      "title": "Minas Lã Stretch",
+      "slug": "minas-la-stretch",
+      "family": "Viscose + elastano",
+      "category": "elasticos",
+      "description": "Fio com base de viscose e elastano para projetos de malharia retilínea em que a equipe busca combinar características sensoriais da viscose com elasticidade. O resultado na peça depende da estrutura de malha, da regulagem do tear, da tensão de alimentação e dos processos posteriores.",
+      "specs": {
+        "Composição": "97% viscose · 3% elastano",
+        "Título / construção": "2/29 Nm · aproximadamente 69 Tex / 690 dtex",
+        "Aplicação": "Peças de moda em tricô que demandem elasticidade, conforme teste de tecimento e requisitos da coleção."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente, nomenclatura comercial e disponibilidade."
+    },
+    {
+      "title": "Stretch Light",
+      "slug": "stretch-light",
+      "family": "Viscose + elastano",
+      "category": "elasticos",
+      "description": "Alternativa da família Stretch com percentual informado de elastano de 2%. A comparação com outros fios deve considerar não apenas a composição, mas também a construção, a alimentação do elastano e o comportamento da malha pronta.",
+      "specs": {
+        "Composição": "98% viscose · 2% elastano",
+        "Título / construção": "2/29 Nm · aproximadamente 69 Tex / 690 dtex",
+        "Aplicação": "Projetos de malharia retilínea que necessitem avaliar uma base de viscose com elastano."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente, nomenclatura comercial e disponibilidade."
+    },
+    {
+      "title": "Viscolastic",
+      "slug": "viscolastic",
+      "family": "Viscose + poliamida + elastano",
+      "category": "elasticos",
+      "description": "Mistura informada de viscose, poliamida e elastano. A presença de mais de uma família de fibras torna importante confirmar os requisitos de cor, comportamento durante o beneficiamento, elasticidade e cuidados de conservação antes de aprovar a aplicação.",
+      "specs": {
+        "Composição": "87% viscose · 11% poliamida · 2% elastano",
+        "Título / construção": "Título final: confirmar",
+        "Aplicação": "Aplicações de malharia retilínea a definir com base em amostra, estrutura e ficha técnica."
+      },
+      "review": "Composição registrada em informações anteriores; confirmar título, processo de tingimento e ficha vigente."
+    },
+    {
+      "title": "Polystretch",
+      "slug": "polystretch",
+      "family": "Poliéster + elastano",
+      "category": "elasticos",
+      "description": "Fio informado à base de poliéster com elastano. Antes de selecionar cor ou processo, é importante validar a compatibilidade entre a matéria-prima, o método de tingimento disponível e os requisitos de solidez da aplicação.",
+      "specs": {
+        "Composição": "97% poliéster · 3% elastano",
+        "Título / construção": "2/42 Nm · aproximadamente 48 Tex / 480 dtex",
+        "Aplicação": "Projetos em que a composição poliéster/elastano seja adequada à estrutura e ao desempenho esperado."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente e opções de cores/processo."
+    },
+    {
+      "title": "Viscostretch",
+      "slug": "viscostretch",
+      "family": "Viscose + poliamida",
+      "category": "mistos",
+      "description": "Mistura informada de viscose e poliamida. A escolha deve levar em conta o toque desejado, a construção da malha, a regularidade do ponto e os resultados de amostras de tecimento e acabamento.",
+      "specs": {
+        "Composição": "70% viscose · 30% poliamida",
+        "Título / construção": "18 Nm · aproximadamente 56 Tex / 560 dtex",
+        "Aplicação": "Malharia retilínea; aplicação específica a validar conforme modelo de peça e máquina."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar se o título informado é simples ou resultante."
+    },
+    {
+      "title": "Vem Verão",
+      "slug": "vem-verao",
+      "family": "Viscose / rayon",
+      "category": "viscose",
+      "description": "Fio de base celulósica associado à proposta comercial de verão. O caimento, o toque, a estabilidade dimensional e a manutenção da peça devem ser avaliados na malha real; não é correto prometer comportamento uniforme sem ensaios.",
+      "specs": {
+        "Composição": "100% rayon (viscose, conforme nomenclatura comercial)",
+        "Título / construção": "2/38 Nm · aproximadamente 52 Tex / 520 dtex",
+        "Aplicação": "Coleções de verão e artigos leves, quando confirmados por amostra e ficha de produto."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar terminologia rayon/viscose e ficha vigente."
+    },
+    {
+      "title": "Rayonflex",
+      "slug": "rayonflex",
+      "family": "Rayon / viscose + poliamida",
+      "category": "mistos",
+      "description": "Nome de produto presente no material de trabalho anterior. A composição e o título precisam ser confirmados antes de usar esta descrição comercialmente. Para avaliar o fio, comparar amostra, estrutura, regulagem, acabamento e estabilidade dimensional da peça.",
+      "specs": {
+        "Composição": "68% rayon · 32% poliamida (informação histórica a confirmar)",
+        "Título / construção": "2/40 Nm (informação histórica a confirmar)",
+        "Aplicação": "Definir após confirmação da ficha técnica e realização de teste na estrutura pretendida."
+      },
+      "review": "VALIDAÇÃO PRIORITÁRIA: dados provenientes de material anterior, sem confirmação de ficha atual."
+    },
+    {
+      "title": "Toca Pele",
+      "slug": "toca-pele",
+      "family": "Viscose + elastano",
+      "category": "elasticos",
+      "description": "Fio informado em cabo simples, com viscose e elastano. O título nominal é apenas um dos parâmetros de seleção: estrutura, densidade de pontos, tensão de alimentação e acabamento alteram o resultado final da malha.",
+      "specs": {
+        "Composição": "98% viscose · 2% elastano",
+        "Título / construção": "1/34 Nm · aproximadamente 29,4 Tex / 294 dtex",
+        "Aplicação": "Projetos que exijam avaliação de um título simples mais fino com elasticidade."
+      },
+      "review": "Composição e título registrados em informações anteriores; confirmar grafia comercial (Toca Pele/Tocapele), construção e disponibilidade."
+    },
+    {
+      "title": "Di Cotone",
+      "slug": "di-cotone",
+      "family": "Algodão + elastano",
+      "category": "algodao",
+      "description": "Produto associado a uma base de algodão penteado com elastano. O sistema de fiação, o título e o comportamento de alimentação precisam constar na ficha aprovada. Para reduzir riscos na produção, recomenda-se teste em máquina e avaliação da malha após os acabamentos previstos.",
+      "specs": {
+        "Composição": "97% algodão penteado · 3% elastano (informação a confirmar)",
+        "Título / construção": "2/34 Nm (informação a confirmar)",
+        "Aplicação": "Projetos de malharia retilínea com algodão e elasticidade, após validação técnica."
+      },
+      "review": "Confirmar composição, sistema de fiação (vortex/convencional), título e especificação vigente."
+    },
+    {
+      "title": "Fashion Raion",
+      "slug": "fashion-raion",
+      "family": "Rayon / viscose",
+      "category": "viscose",
+      "description": "Nome presente no portfólio de trabalho anterior. Antes de divulgar benefícios ou recomendar para uma galga, é necessário validar composição, título resultante, número de cabos, cores e situação comercial do produto.",
+      "specs": {
+        "Composição": "Confirmar",
+        "Título / construção": "2/50 Nm mencionado em material anterior; confirmar",
+        "Aplicação": "Definir a partir da ficha técnica aprovada e de testes de tecimento."
+      },
+      "review": "VALIDAÇÃO PRIORITÁRIA: não publicar composição ou recomendação de galga até confirmar os dados."
+    },
+    {
+      "title": "Catavento",
+      "slug": "catavento",
+      "family": "Fio especial / composição a confirmar",
+      "category": "outros",
+      "description": "Produto citado no portfólio anterior. Esta página deve ser completada com composição, título, construção, cartela de cores, características verificadas e aplicações aprovadas.",
+      "specs": {
+        "Composição": "Confirmar",
+        "Título / construção": "Confirmar",
+        "Aplicação": "A definir após recuperação da ficha técnica e validação comercial."
+      },
+      "review": "Preencher ficha oficial antes da publicação."
+    },
+    {
+      "title": "Viscose",
+      "slug": "viscose",
+      "family": "Viscose · especificação a confirmar",
+      "category": "viscose",
+      "description": "Página de categoria/produto para fios identificados comercialmente como viscose. O título e a construção devem ser especificados de forma inequívoca, distinguindo título do cabo simples e título resultante do fio retorcido.",
+      "specs": {
+        "Composição": "Confirmar título, construção e fornecedor/origem",
+        "Título / construção": "Confirmar",
+        "Aplicação": "A definir conforme título, construção, estrutura de malha e requisitos de acabamento."
+      },
+      "review": "Completar com SKU/nome comercial exato e ficha técnica."
+    },
+    {
+      "title": "Viscosoft",
+      "slug": "viscosoft",
+      "family": "Viscose · especificação a confirmar",
+      "category": "viscose",
+      "description": "Nome presente no controle de portfólio. Inserir descrição comercial baseada em características observadas e medidas, evitando adjetivos sem critério verificável.",
+      "specs": {
+        "Composição": "Confirmar",
+        "Título / construção": "Confirmar",
+        "Aplicação": "A definir após confirmação da ficha técnica."
+      },
+      "review": "Completar ficha e confirmar se o produto continua ativo."
+    },
+    {
+      "title": "Desenvolvimento sob consulta",
+      "slug": "desenvolvimento-sob-consulta",
+      "family": "Projeto técnico",
+      "category": "desenvolvimento",
+      "description": "Quando a necessidade não corresponde exatamente a um item de linha, a equipe pode avaliar a viabilidade de uma construção diferente. O ponto de partida é uma especificação clara: composição desejada, título, número de cabos, torção, cor, elasticidade, máquina, galga e critérios de aprovação.",
+      "specs": {
+        "Composição": "Conforme viabilidade e matérias-primas disponíveis",
+        "Título / construção": "Conforme especificação acordada",
+        "Aplicação": "Projetos avaliados individualmente; desenvolvimento, amostras, volumes mínimos e prazos precisam ser confirmados caso a caso."
+      },
+      "review": "Texto de serviço proposto. Confirmar política comercial, limites técnicos, volumes mínimos e prazos."
+    }
+  ],
+  "articles": [
+    {
+      "title": "Como ler o título de um fio: Nm, Tex, dtex e denier",
+      "slug": "como-ler-titulo-fio-nm-tex-dtex",
+      "summary": "O título linear descreve a relação entre massa e comprimento do fio. Entender a unidade evita comparar diretamente números que usam sistemas diferentes."
+    },
+    {
+      "title": "Como selecionar fios para galgas 12, 14, 16 e 18",
+      "slug": "como-escolher-fio-para-galga-shima-seiki",
+      "summary": "A galga é um ponto de partida, não uma fórmula universal para determinar o título do fio."
+    },
+    {
+      "title": "Viscose e rayon na malharia retilínea: pontos de atenção",
+      "slug": "viscose-rayon-na-malharia-retilinea",
+      "summary": "Toque e caimento são apenas parte da decisão; o processo precisa ser avaliado do cone à peça acabada."
+    },
+    {
+      "title": "Fios com elastano: tensão, alongamento e recuperação",
+      "slug": "fios-com-elastano-tensao-e-recuperacao",
+      "summary": "O percentual de elastano não descreve sozinho a elasticidade que a peça terá."
+    },
+    {
+      "title": "Tingimento de fios: cor, lote e aprovação de amostras",
+      "slug": "tingimento-de-fios-cores-lotes-e-solidez",
+      "summary": "A cor aprovada precisa ser ligada a uma referência clara e a um processo documentado."
+    },
+    {
+      "title": "Como especificar um fio para cotação ou desenvolvimento",
+      "slug": "como-especificar-fio-para-cotacao",
+      "summary": "Um pedido técnico completo reduz idas e vindas e ajuda a avaliar a viabilidade do projeto."
+    }
+  ],
+  "priorities": [
+    "Validar composição, título e construção de todas as linhas do catálogo",
+    "Definir endereço final do site e gerar sitemap com SITE_URL",
+    "Cadastrar telefone, e-mail e WhatsApp corretos em assets/config.js",
+    "Fornecer fotografias reais da fábrica, cones, cartelas e malhas",
+    "Escolher hospedagem; configurar e testar recebimento na Netlify se usar formulário online",
+    "Validar política de privacidade e dados da pessoa jurídica",
+    "Testar em smartphone e publicar no Google Search Console",
+    "Revisar atualidade e disponibilidade de produtos, processos e serviços para terceiros"
+  ]
+}
