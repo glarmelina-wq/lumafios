@@ -86,7 +86,7 @@
                 '7': {
                     faixaNm: 'Nm 6.0 a Nm 10.0 resultante',
                     faixaDtex: '1.000 dtex a 1.650 dtex total na agulha',
-                    fiosLuma: 'Utilizar <strong>2 a 3 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em>, <strong>2 cabos</strong> do <em>Nevada (18 Nm)</em> ou <strong>3 cabos</strong> do <em>Dicotone (2/34 Nm)</em>.'
+                    fiosLuma: 'Utilizar <strong>2 a 3 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em>, <strong>2 cabos</strong> do <em>Nevada (18 Nm)</em> ou <strong>3 cabos</strong> do <em>DICOTONE (2/34 Nm)</em>.'
                 },
                 '10': {
                     faixaNm: 'Nm 10.0 a Nm 13.5 resultante',
@@ -96,22 +96,22 @@
                 '12': {
                     faixaNm: 'Nm 14.0 a Nm 19.0 resultante',
                     faixaDtex: '520 dtex a 710 dtex total na agulha',
-                    fiosLuma: 'Nossa especialidade com <strong>1 cabo</strong> direto: <em>Minas Lã Stretch (2/29 Nm = 690 dtex)</em>, <em>Stretch Light (2/29 Nm)</em>, <em>Catavento (2/34 Nm = 588 dtex)</em>, <em>Dicotone (2/34 Nm)</em> ou <em>Vem Verão (2/38 Nm = 526 dtex)</em>.'
+                    fiosLuma: 'Nossa especialidade com <strong>1 cabo</strong> direto: <em>Minas Lã Stretch (2/29 Nm = 690 dtex)</em>, <em>Stretch Light (2/29 Nm)</em>, <em>Catavento (2/34 Nm = 588 dtex)</em>, <em>DICOTONE (2/34 Nm)</em> ou <em>Vem Verão (2/38 Nm = 526 dtex)</em>.'
                 },
                 '14': {
                     faixaNm: 'Nm 18.0 a Nm 24.0 resultante',
                     faixaDtex: '415 dtex a 550 dtex total na agulha',
-                    fiosLuma: 'Ideal com <strong>1 cabo</strong> do <em>Vem Verão (2/38 Nm)</em>, <strong>1 cabo</strong> do <em>Rayonflex (2/40 Nm = 500 dtex)</em> ou <strong>1 cabo</strong> do <em>Fashion Raion (2/50 Nm = 400 dtex)</em>.'
+                    fiosLuma: 'Ideal com <strong>1 cabo</strong> do <em>Vem Verão (2/38 Nm)</em>, <strong>1 cabo</strong> do <em>Rayonflex (2/40 Nm = 500 dtex)</em> ou <strong>1 cabo</strong> do <em>FASHION RAION (2/50 Nm = 400 dtex)</em>.'
                 },
                 '16': {
                     faixaNm: 'Nm 24.0 a Nm 34.0 resultante',
                     faixaDtex: '290 dtex a 415 dtex total na agulha',
-                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>Fashion Raion (2/50 Nm = 400 dtex)</em> ou <strong>1 cabo</strong> do <em>Tocapele (1/34 Nm = 294 dtex)</em> para malhas finíssimas de alta costura.'
+                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>FASHION RAION (2/50 Nm = 400 dtex)</em> ou <strong>1 cabo</strong> do <em>TOCAPELE (1/34 Nm = 294 dtex)</em> para malhas finíssimas de alta costura.'
                 },
                 '18': {
                     faixaNm: 'Nm 32.0 a Nm 45.0 resultante',
                     faixaDtex: '220 dtex a 310 dtex total na agulha',
-                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>Tocapele (1/34 Nm = 294 dtex)</em> ou desenvolvimento sob medida em nosso laboratório (P&D) com Micro Modal e Poliamida 6.6 ultrafina.'
+                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>TOCAPELE (1/34 Nm = 294 dtex)</em> ou desenvolvimento sob medida em nosso laboratório (P&D) com Micro Modal e Poliamida 6.6 ultrafina.'
                 }
             };
 
@@ -119,7 +119,7 @@
             if (estrutura === 'canelado') {
                 notaEstrutura = 'Para estruturas caneladas/Rib ou Ottomano, recomenda-se trabalhar no limite mais fino da faixa de dtex ou ajustar a graduagem de ponto para evitar tensão excessiva nas agulhas.';
             } else if (estrutura === 'jacquard') {
-                notaEstrutura = 'Em Jacquard ou Intarsia, prefira fios de excelente recuperação e baixo atrito como o <em>Rayonflex</em>, <em>Dicotone</em> ou <em>Minas Lã Stretch</em> para definição perfeita do desenho.';
+                notaEstrutura = 'Em Jacquard ou Intarsia, prefira fios de excelente recuperação e baixo atrito como o <em>Rayonflex</em>, <em>DICOTONE</em> ou <em>Minas Lã Stretch</em> para definição perfeita do desenho.';
             } else {
                 notaEstrutura = 'Em Jersey simples, a estabilidade de torção dos fios Luma garante colunas perfeitamente alinhadas sem enviesamento da malha.';
             }

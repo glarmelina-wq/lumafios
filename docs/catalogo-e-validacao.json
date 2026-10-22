@@ -1,189 +1,142 @@
 {
-  "version": "3.0",
-  "source": "Luma_Fios_Site_Expandido_V2.html",
-  "total_pages": 32,
+  "version": "3.1",
+  "source": "Solicitação do proprietário em 22/10/2026",
+  "total_pages": 27,
   "products": [
     {
       "title": "Minas Lã Stretch",
       "slug": "minas-la-stretch",
       "family": "Viscose + elastano",
       "category": "elasticos",
-      "description": "Fio com base de viscose e elastano para projetos de malharia retilínea em que a equipe busca combinar características sensoriais da viscose com elasticidade. O resultado na peça depende da estrutura de malha, da regulagem do tear, da tensão de alimentação e dos processos posteriores.",
+      "description": "Base de viscose com elastano para projetos de malharia retilínea com elasticidade.",
       "specs": {
         "Composição": "97% viscose · 3% elastano",
-        "Título / construção": "2/29 Nm · aproximadamente 69 Tex / 690 dtex",
-        "Aplicação": "Peças de moda em tricô que demandem elasticidade, conforme teste de tecimento e requisitos da coleção."
+        "Título / construção": "2/29 Nm",
+        "Nm resultante": "14,50 Nm",
+        "Tex / dtex": "68,97 Tex / 689,66 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente, nomenclatura comercial e disponibilidade."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
       "title": "Stretch Light",
       "slug": "stretch-light",
       "family": "Viscose + elastano",
       "category": "elasticos",
-      "description": "Alternativa da família Stretch com percentual informado de elastano de 2%. A comparação com outros fios deve considerar não apenas a composição, mas também a construção, a alimentação do elastano e o comportamento da malha pronta.",
+      "description": "Fio de viscose com 2% de elastano para desenvolver peças em tricô.",
       "specs": {
         "Composição": "98% viscose · 2% elastano",
-        "Título / construção": "2/29 Nm · aproximadamente 69 Tex / 690 dtex",
-        "Aplicação": "Projetos de malharia retilínea que necessitem avaliar uma base de viscose com elastano."
+        "Título / construção": "2/29 Nm",
+        "Nm resultante": "14,50 Nm",
+        "Tex / dtex": "68,97 Tex / 689,66 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente, nomenclatura comercial e disponibilidade."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "Viscolastic",
-      "slug": "viscolastic",
-      "family": "Viscose + poliamida + elastano",
-      "category": "elasticos",
-      "description": "Mistura informada de viscose, poliamida e elastano. A presença de mais de uma família de fibras torna importante confirmar os requisitos de cor, comportamento durante o beneficiamento, elasticidade e cuidados de conservação antes de aprovar a aplicação.",
-      "specs": {
-        "Composição": "87% viscose · 11% poliamida · 2% elastano",
-        "Título / construção": "Título final: confirmar",
-        "Aplicação": "Aplicações de malharia retilínea a definir com base em amostra, estrutura e ficha técnica."
-      },
-      "review": "Composição registrada em informações anteriores; confirmar título, processo de tingimento e ficha vigente."
-    },
-    {
-      "title": "Polystretch",
-      "slug": "polystretch",
-      "family": "Poliéster + elastano",
-      "category": "elasticos",
-      "description": "Fio informado à base de poliéster com elastano. Antes de selecionar cor ou processo, é importante validar a compatibilidade entre a matéria-prima, o método de tingimento disponível e os requisitos de solidez da aplicação.",
-      "specs": {
-        "Composição": "97% poliéster · 3% elastano",
-        "Título / construção": "2/42 Nm · aproximadamente 48 Tex / 480 dtex",
-        "Aplicação": "Projetos em que a composição poliéster/elastano seja adequada à estrutura e ao desempenho esperado."
-      },
-      "review": "Composição e título registrados em informações anteriores; confirmar ficha vigente e opções de cores/processo."
-    },
-    {
-      "title": "Viscostretch",
-      "slug": "viscostretch",
+      "title": "Nevada",
+      "slug": "nevada",
       "family": "Viscose + poliamida",
       "category": "mistos",
-      "description": "Mistura informada de viscose e poliamida. A escolha deve levar em conta o toque desejado, a construção da malha, a regularidade do ponto e os resultados de amostras de tecimento e acabamento.",
+      "description": "Mistura de viscose e poliamida para projetos de malharia retilínea.",
       "specs": {
         "Composição": "70% viscose · 30% poliamida",
-        "Título / construção": "18 Nm · aproximadamente 56 Tex / 560 dtex",
-        "Aplicação": "Malharia retilínea; aplicação específica a validar conforme modelo de peça e máquina."
+        "Título / construção": "18 Nm",
+        "Nm resultante": "18,00 Nm",
+        "Tex / dtex": "55,56 Tex / 555,56 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Composição e título registrados em informações anteriores; confirmar se o título informado é simples ou resultante."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
       "title": "Vem Verão",
       "slug": "vem-verao",
       "family": "Viscose / rayon",
       "category": "viscose",
-      "description": "Fio de base celulósica associado à proposta comercial de verão. O caimento, o toque, a estabilidade dimensional e a manutenção da peça devem ser avaliados na malha real; não é correto prometer comportamento uniforme sem ensaios.",
+      "description": "Fio de viscose/rayon para o desenvolvimento de coleções em tricô.",
       "specs": {
-        "Composição": "100% rayon (viscose, conforme nomenclatura comercial)",
-        "Título / construção": "2/38 Nm · aproximadamente 52 Tex / 520 dtex",
-        "Aplicação": "Coleções de verão e artigos leves, quando confirmados por amostra e ficha de produto."
+        "Composição": "100% viscose/rayon",
+        "Título / construção": "2/38 Nm",
+        "Nm resultante": "19,00 Nm",
+        "Tex / dtex": "52,63 Tex / 526,32 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Composição e título registrados em informações anteriores; confirmar terminologia rayon/viscose e ficha vigente."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
       "title": "Rayonflex",
       "slug": "rayonflex",
-      "family": "Rayon / viscose + poliamida",
+      "family": "Viscose / rayon + poliamida",
       "category": "mistos",
-      "description": "Nome de produto presente no material de trabalho anterior. A composição e o título precisam ser confirmados antes de usar esta descrição comercialmente. Para avaliar o fio, comparar amostra, estrutura, regulagem, acabamento e estabilidade dimensional da peça.",
+      "description": "Fio que combina viscose/rayon e poliamida para projetos de malharia retilínea.",
       "specs": {
-        "Composição": "68% rayon · 32% poliamida (informação histórica a confirmar)",
-        "Título / construção": "2/40 Nm (informação histórica a confirmar)",
-        "Aplicação": "Definir após confirmação da ficha técnica e realização de teste na estrutura pretendida."
+        "Composição": "68% viscose/rayon · 32% poliamida",
+        "Título / construção": "2/40 Nm",
+        "Nm resultante": "20,00 Nm",
+        "Tex / dtex": "50,00 Tex / 500,00 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "VALIDAÇÃO PRIORITÁRIA: dados provenientes de material anterior, sem confirmação de ficha atual."
-    },
-    {
-      "title": "Toca Pele",
-      "slug": "toca-pele",
-      "family": "Viscose + elastano",
-      "category": "elasticos",
-      "description": "Fio informado em cabo simples, com viscose e elastano. O título nominal é apenas um dos parâmetros de seleção: estrutura, densidade de pontos, tensão de alimentação e acabamento alteram o resultado final da malha.",
-      "specs": {
-        "Composição": "98% viscose · 2% elastano",
-        "Título / construção": "1/34 Nm · aproximadamente 29,4 Tex / 294 dtex",
-        "Aplicação": "Projetos que exijam avaliação de um título simples mais fino com elasticidade."
-      },
-      "review": "Composição e título registrados em informações anteriores; confirmar grafia comercial (Toca Pele/Tocapele), construção e disponibilidade."
-    },
-    {
-      "title": "Di Cotone",
-      "slug": "di-cotone",
-      "family": "Algodão + elastano",
-      "category": "algodao",
-      "description": "Produto associado a uma base de algodão penteado com elastano. O sistema de fiação, o título e o comportamento de alimentação precisam constar na ficha aprovada. Para reduzir riscos na produção, recomenda-se teste em máquina e avaliação da malha após os acabamentos previstos.",
-      "specs": {
-        "Composição": "97% algodão penteado · 3% elastano (informação a confirmar)",
-        "Título / construção": "2/34 Nm (informação a confirmar)",
-        "Aplicação": "Projetos de malharia retilínea com algodão e elasticidade, após validação técnica."
-      },
-      "review": "Confirmar composição, sistema de fiação (vortex/convencional), título e especificação vigente."
-    },
-    {
-      "title": "Fashion Raion",
-      "slug": "fashion-raion",
-      "family": "Rayon / viscose",
-      "category": "viscose",
-      "description": "Nome presente no portfólio de trabalho anterior. Antes de divulgar benefícios ou recomendar para uma galga, é necessário validar composição, título resultante, número de cabos, cores e situação comercial do produto.",
-      "specs": {
-        "Composição": "Confirmar",
-        "Título / construção": "2/50 Nm mencionado em material anterior; confirmar",
-        "Aplicação": "Definir a partir da ficha técnica aprovada e de testes de tecimento."
-      },
-      "review": "VALIDAÇÃO PRIORITÁRIA: não publicar composição ou recomendação de galga até confirmar os dados."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
       "title": "Catavento",
       "slug": "catavento",
-      "family": "Fio especial / composição a confirmar",
-      "category": "outros",
-      "description": "Produto citado no portfólio anterior. Esta página deve ser completada com composição, título, construção, cartela de cores, características verificadas e aplicações aprovadas.",
+      "family": "Viscose + algodão + elastano",
+      "category": "elasticos",
+      "description": "Mistura de viscose, algodão e elastano para desenvolver peças em malharia retilínea.",
       "specs": {
-        "Composição": "Confirmar",
-        "Título / construção": "Confirmar",
-        "Aplicação": "A definir após recuperação da ficha técnica e validação comercial."
+        "Composição": "71% viscose · 25% algodão · 4% elastano",
+        "Título / construção": "2/34 Nm",
+        "Nm resultante": "17,00 Nm",
+        "Tex / dtex": "58,82 Tex / 588,24 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Preencher ficha oficial antes da publicação."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "Viscose",
-      "slug": "viscose",
-      "family": "Viscose · especificação a confirmar",
-      "category": "viscose",
-      "description": "Página de categoria/produto para fios identificados comercialmente como viscose. O título e a construção devem ser especificados de forma inequívoca, distinguindo título do cabo simples e título resultante do fio retorcido.",
+      "title": "DICOTONE",
+      "slug": "di-cotone",
+      "family": "Algodão + elastano",
+      "category": "algodao",
+      "description": "Fio de algodão com elastano para projetos em tricô com elasticidade.",
       "specs": {
-        "Composição": "Confirmar título, construção e fornecedor/origem",
-        "Título / construção": "Confirmar",
-        "Aplicação": "A definir conforme título, construção, estrutura de malha e requisitos de acabamento."
+        "Composição": "97% algodão · 3% elastano",
+        "Título / construção": "2/34 Nm",
+        "Nm resultante": "17,00 Nm",
+        "Tex / dtex": "58,82 Tex / 588,24 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Completar com SKU/nome comercial exato e ficha técnica."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "Viscosoft",
-      "slug": "viscosoft",
-      "family": "Viscose · especificação a confirmar",
-      "category": "viscose",
-      "description": "Nome presente no controle de portfólio. Inserir descrição comercial baseada em características observadas e medidas, evitando adjetivos sem critério verificável.",
+      "title": "TOCAPELE",
+      "slug": "toca-pele",
+      "family": "Viscose + elastano",
+      "category": "elasticos",
+      "description": "Fio de viscose com elastano em título 1/34 Nm para projetos de malharia retilínea.",
       "specs": {
-        "Composição": "Confirmar",
-        "Título / construção": "Confirmar",
-        "Aplicação": "A definir após confirmação da ficha técnica."
+        "Composição": "98% viscose · 2% elastano",
+        "Título / construção": "1/34 Nm",
+        "Nm resultante": "34,00 Nm",
+        "Tex / dtex": "29,41 Tex / 294,12 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Completar ficha e confirmar se o produto continua ativo."
+      "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "Desenvolvimento sob consulta",
-      "slug": "desenvolvimento-sob-consulta",
-      "family": "Projeto técnico",
-      "category": "desenvolvimento",
-      "description": "Quando a necessidade não corresponde exatamente a um item de linha, a equipe pode avaliar a viabilidade de uma construção diferente. O ponto de partida é uma especificação clara: composição desejada, título, número de cabos, torção, cor, elasticidade, máquina, galga e critérios de aprovação.",
+      "title": "FASHION RAION",
+      "slug": "fashion-raion",
+      "family": "Viscose / rayon + poliamida",
+      "category": "mistos",
+      "description": "Mistura de rayon e poliamida em título 2/50 Nm para desenvolver peças em tricô.",
       "specs": {
-        "Composição": "Conforme viabilidade e matérias-primas disponíveis",
-        "Título / construção": "Conforme especificação acordada",
-        "Aplicação": "Projetos avaliados individualmente; desenvolvimento, amostras, volumes mínimos e prazos precisam ser confirmados caso a caso."
+        "Composição": "80% rayon · 20% poliamida",
+        "Título / construção": "2/50 Nm",
+        "Nm resultante": "25,00 Nm",
+        "Tex / dtex": "40,00 Tex / 400,00 dtex",
+        "Aplicação": "Malharia retilínea; selecionar a estrutura e a regulagem por amostra de tecimento."
       },
-      "review": "Texto de serviço proposto. Confirmar política comercial, limites técnicos, volumes mínimos e prazos."
+      "review": "Composição e título confirmados pelo proprietário: 80% rayon / 20% poliamida, 2/50 Nm (22/10/2026)."
     }
   ],
   "articles": [
