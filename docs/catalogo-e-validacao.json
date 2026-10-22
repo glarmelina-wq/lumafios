@@ -1,7 +1,7 @@
 {
   "version": "3.1",
   "source": "Solicitação do proprietário em 22/10/2026",
-  "total_pages": 27,
+  "total_pages": 28,
   "products": [
     {
       "title": "Minas Lã Stretch",
@@ -94,7 +94,7 @@
       "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "DICOTONE",
+      "title": "Dicotone",
       "slug": "di-cotone",
       "family": "Algodão + elastano",
       "category": "algodao",
@@ -109,7 +109,7 @@
       "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "TOCAPELE",
+      "title": "Tocapele",
       "slug": "toca-pele",
       "family": "Viscose + elastano",
       "category": "elasticos",
@@ -124,7 +124,7 @@
       "review": "Composição, título e nome atualizados conforme solicitação do proprietário em 22/10/2026."
     },
     {
-      "title": "FASHION RAION",
+      "title": "Fashion Raion",
       "slug": "fashion-raion",
       "family": "Viscose / rayon + poliamida",
       "category": "mistos",
@@ -140,6 +140,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pontos, técnicas e processos da malharia retilínea",
+      "slug": "pontos-e-estruturas-de-malharia-retilinea",
+      "summary": "Guia de estruturas, desenho, Peça Pronta (WHOLEGARMENT) e aplicações técnicas."
+    },
     {
       "title": "Como ler o título de um fio: Nm, Tex, dtex e denier",
       "slug": "como-ler-titulo-fio-nm-tex-dtex",
