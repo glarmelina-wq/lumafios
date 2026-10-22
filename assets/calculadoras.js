@@ -66,8 +66,8 @@
                     <li>• <strong>Ne (Algodão) Resultante:</strong> ${neResultante.toFixed(2)} Ne</li>
                 </ul>
                 <div style="background: #ffffff; padding: 0.85rem; border-radius: 6px; border: 1px solid #f59e0b;">
-                    <strong>⚙️ Sugestão de Galga Shima Seiki (baseado em ${dtexResultante.toFixed(0)} dtex):</strong><br>
-                    Ideal para tecer em: ${sugestaoGalga}
+                    <strong>⚙️ Referência de Galga Shima Seiki (baseado em ${dtexResultante.toFixed(0)} dtex):</strong><br>
+                    Referências para ensaio de tecimento: ${sugestaoGalga}
                 </div>
             `;
         }
@@ -81,12 +81,12 @@
                 '5': {
                     faixaNm: 'Nm 3.5 a Nm 6.0 resultante',
                     faixaDtex: '1.650 dtex a 2.850 dtex total na agulha',
-                    fiosLuma: 'Utilizar <strong>3 a 4 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em> ou <strong>3 cabos</strong> do <em>Nevada (18 Nm)</em>. Também desenvolvemos Poliamida Invernal volumosa sob medida para GG 5.'
+                    fiosLuma: 'Utilizar <strong>3 a 4 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em> ou <strong>3 cabos</strong> do <em>Nevada (18 Nm)</em>. Consulte a equipe sobre a viabilidade da aplicação.'
                 },
                 '7': {
                     faixaNm: 'Nm 6.0 a Nm 10.0 resultante',
                     faixaDtex: '1.000 dtex a 1.650 dtex total na agulha',
-                    fiosLuma: 'Utilizar <strong>2 a 3 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em>, <strong>2 cabos</strong> do <em>Nevada (18 Nm)</em> ou <strong>3 cabos</strong> do <em>DICOTONE (2/34 Nm)</em>.'
+                    fiosLuma: 'Utilizar <strong>2 a 3 cabos</strong> do <em>Minas Lã Stretch (2/29 Nm)</em>, <strong>2 cabos</strong> do <em>Nevada (18 Nm)</em> ou <strong>3 cabos</strong> do <em>Dicotone (2/34 Nm)</em>.'
                 },
                 '10': {
                     faixaNm: 'Nm 10.0 a Nm 13.5 resultante',
@@ -96,44 +96,52 @@
                 '12': {
                     faixaNm: 'Nm 14.0 a Nm 19.0 resultante',
                     faixaDtex: '520 dtex a 710 dtex total na agulha',
-                    fiosLuma: 'Nossa especialidade com <strong>1 cabo</strong> direto: <em>Minas Lã Stretch (2/29 Nm = 690 dtex)</em>, <em>Stretch Light (2/29 Nm)</em>, <em>Catavento (2/34 Nm = 588 dtex)</em>, <em>DICOTONE (2/34 Nm)</em> ou <em>Vem Verão (2/38 Nm = 526 dtex)</em>.'
+                    fiosLuma: 'Nossa especialidade com <strong>1 cabo</strong> direto: <em>Minas Lã Stretch (2/29 Nm = 690 dtex)</em>, <em>Stretch Light (2/29 Nm)</em>, <em>Catavento (2/34 Nm = 588 dtex)</em>, <em>Dicotone (2/34 Nm)</em> ou <em>Vem Verão (2/38 Nm = 526 dtex)</em>.'
                 },
                 '14': {
                     faixaNm: 'Nm 18.0 a Nm 24.0 resultante',
                     faixaDtex: '415 dtex a 550 dtex total na agulha',
-                    fiosLuma: 'Ideal com <strong>1 cabo</strong> do <em>Vem Verão (2/38 Nm)</em>, <strong>1 cabo</strong> do <em>Rayonflex (2/40 Nm = 500 dtex)</em> ou <strong>1 cabo</strong> do <em>FASHION RAION (2/50 Nm = 400 dtex)</em>.'
+                    fiosLuma: 'Ideal com <strong>1 cabo</strong> do <em>Vem Verão (2/38 Nm)</em>, <strong>1 cabo</strong> do <em>Rayonflex (2/40 Nm = 500 dtex)</em> ou <strong>1 cabo</strong> do <em>Fashion Raion (2/50 Nm = 400 dtex)</em>.'
                 },
                 '16': {
                     faixaNm: 'Nm 24.0 a Nm 34.0 resultante',
                     faixaDtex: '290 dtex a 415 dtex total na agulha',
-                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>FASHION RAION (2/50 Nm = 400 dtex)</em> ou <strong>1 cabo</strong> do <em>TOCAPELE (1/34 Nm = 294 dtex)</em> para malhas finíssimas de alta costura.'
+                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>Fashion Raion (2/50 Nm = 400 dtex)</em> ou <strong>1 cabo</strong> do <em>Tocapele (1/34 Nm = 294 dtex)</em> para malhas finíssimas de alta costura.'
                 },
                 '18': {
                     faixaNm: 'Nm 32.0 a Nm 45.0 resultante',
                     faixaDtex: '220 dtex a 310 dtex total na agulha',
-                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>TOCAPELE (1/34 Nm = 294 dtex)</em> ou desenvolvimento sob medida em nosso laboratório (P&D) com Micro Modal e Poliamida 6.6 ultrafina.'
+                    fiosLuma: 'Recomendado <strong>1 cabo</strong> do <em>Tocapele (1/34 Nm = 294 dtex)</em> ou desenvolvimento sob medida em nosso laboratório (P&D) com Micro Modal e Poliamida 6.6 ultrafina.'
                 }
             };
 
-            let notaEstrutura = '';
-            if (estrutura === 'canelado') {
-                notaEstrutura = 'Para estruturas caneladas/Rib ou Ottomano, recomenda-se trabalhar no limite mais fino da faixa de dtex ou ajustar a graduagem de ponto para evitar tensão excessiva nas agulhas.';
-            } else if (estrutura === 'jacquard') {
-                notaEstrutura = 'Em Jacquard ou Intarsia, prefira fios de excelente recuperação e baixo atrito como o <em>Rayonflex</em>, <em>DICOTONE</em> ou <em>Minas Lã Stretch</em> para definição perfeita do desenho.';
-            } else {
-                notaEstrutura = 'Em Jersey simples, a estabilidade de torção dos fios Luma garante colunas perfeitamente alinhadas sem enviesamento da malha.';
-            }
-
+            const definicao = (window.LUMA_ESTRUTURAS || {})[estrutura];
             const info = dadosGalga[galga];
             resDiv.style.display = 'block';
+            if (!info || !definicao) {
+                resDiv.innerHTML = '<strong>Atenção:</strong> Selecione uma galga e uma estrutura válidas.';
+                return;
+            }
+            const processo = document.getElementById('processoMalha')?.value || 'paineis';
+            const aplicacao = document.getElementById('aplicacaoMalha')?.value || 'moda';
+            const especial = aplicacao !== 'moda';
+            const notaProcesso = processo === 'peca-pronta'
+                ? 'Peça Pronta (WHOLEGARMENT): confirme modelo, configuração das fronturas, programação e fio nas regiões de união e transferência. O processo pode combinar diferentes estruturas; não determina sozinho o título.'
+                : 'Painéis para montagem: avalie bordas, medidas relaxadas e compatibilidade entre as partes antes da montagem.';
+            const notaAplicacao = aplicacao === 'cabedal'
+                ? 'Cabedais: validar abrasão, flexão, fixação ao solado, ajuste e eventuais fios de fusão. A tabela de moda não qualifica um fio para calçados.'
+                : aplicacao === 'tecnica'
+                ? 'Malhas técnicas: partir dos requisitos do uso, dos materiais, dos ensaios e das normas aplicáveis. Fio de moda não é automaticamente adequado a EPI, proteção térmica ou reforço estrutural.'
+                : 'Vestuário: avaliar toque, cobertura, gramatura, medidas após acabamento e recuperação na estrutura escolhida.';
+            const notaEstrutura = definicao.nota;
             resDiv.innerHTML = `
-                <div style="margin-bottom: 0.6rem; font-size: 1.05rem;"><strong>Especificação Técnica para Shima Seiki Galga ${galga}:</strong></div>
-                <p style="margin-bottom: 0.4rem;">• <strong>Faixa de Título Ideal:</strong> ${info.faixaNm}</p>
-                <p style="margin-bottom: 0.8rem;">• <strong>Densidade Linear Equivalente:</strong> ${info.faixaDtex}</p>
+                <div style="margin-bottom: 0.6rem; font-size: 1.05rem;"><strong>Orientação inicial para Shima Seiki Galga ${galga}:</strong></div>
+                ${especial ? '<p><strong>Avaliação específica necessária:</strong> não há faixa automática de título ou fio de moda aprovado para esta aplicação.</p>' : `<p>• <strong>Faixa indicativa para ensaio em vestuário:</strong> ${info.faixaNm}</p>`}
+                <p style="margin-bottom: 0.8rem;">• <strong>Densidade Linear Equivalente:</strong> ${especial ? "Não definida automaticamente para esta aplicação" : info.faixaDtex}</p>
                 <div style="background: #ffffff; padding: 0.85rem; border-radius: 6px; border: 1px solid #f59e0b; margin-bottom: 0.6rem;">
-                    <strong>🧶 Fios Luma Recomendados:</strong><br>${info.fiosLuma}
+                    <strong>🧶 Fios de linha para avaliação inicial:</strong><br>${especial ? "Solicite avaliação do projeto e da matéria-prima; nenhum item de linha está qualificado automaticamente para esta aplicação." : info.fiosLuma}
                 </div>
-                <p style="font-size: 0.88rem; color: #475569;"><em>💡 Dica de Tecimento: ${notaEstrutura}</em></p>
+                <p style="font-size: 0.88rem; color: #475569;"><strong>${definicao.nome} — ${definicao.tipo}:</strong> ${notaEstrutura}</p><p>${notaProcesso}</p><p>${notaAplicacao}</p><p><strong>Validação:</strong> as faixas por galga não mudam por um multiplicador automático de estrutura. Confirme a amostra no tear e após acabamento. <a href="../biblioteca/pontos-e-estruturas-de-malharia-retilinea/">Ler guia de estruturas ↗</a></p>
             `;
         }
     
