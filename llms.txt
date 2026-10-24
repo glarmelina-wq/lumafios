@@ -1,0 +1,30 @@
+# Luma Fios Especiais
+
+> Índice textual complementar do site. Sem promessa de indexação ou recomendação automática por assistentes.
+
+## Empresa e processos
+- [empresa/](https://glarmelina-wq.github.io/lumafios/empresa/)
+- [servicos/retorcao-de-fios/](https://glarmelina-wq.github.io/lumafios/servicos/retorcao-de-fios/)
+- [servicos/tingimento-de-fios/](https://glarmelina-wq.github.io/lumafios/servicos/tingimento-de-fios/)
+- [desenvolvimento-de-fios/](https://glarmelina-wq.github.io/lumafios/desenvolvimento-de-fios/)
+- [ferramentas/](https://glarmelina-wq.github.io/lumafios/ferramentas/)
+
+## Fios
+- [Minas Lã Stretch](https://glarmelina-wq.github.io/lumafios/fios/minas-la-stretch/): 97% viscose · 3% elastano; 2/29 Nm; 68,97 Tex / 689,66 dtex.
+- [Stretch Light](https://glarmelina-wq.github.io/lumafios/fios/stretch-light/): 98% viscose · 2% elastano; 2/29 Nm; 68,97 Tex / 689,66 dtex.
+- [Nevada](https://glarmelina-wq.github.io/lumafios/fios/nevada/): 70% viscose · 30% poliamida; 18 Nm; 55,56 Tex / 555,56 dtex.
+- [Vem Verão](https://glarmelina-wq.github.io/lumafios/fios/vem-verao/): 100% viscose/rayon; 2/38 Nm; 52,63 Tex / 526,32 dtex.
+- [Rayonflex](https://glarmelina-wq.github.io/lumafios/fios/rayonflex/): 68% viscose/rayon · 32% poliamida; 2/40 Nm; 50,00 Tex / 500,00 dtex.
+- [Catavento](https://glarmelina-wq.github.io/lumafios/fios/catavento/): 71% viscose · 25% algodão · 4% elastano; 2/34 Nm; 58,82 Tex / 588,24 dtex.
+- [Dicotone](https://glarmelina-wq.github.io/lumafios/fios/di-cotone/): 97% algodão · 3% elastano; 2/34 Nm; 58,82 Tex / 588,24 dtex.
+- [Tocapele](https://glarmelina-wq.github.io/lumafios/fios/toca-pele/): 98% viscose · 2% elastano; 1/34 Nm; 29,41 Tex / 294,12 dtex.
+- [Fashion Raion](https://glarmelina-wq.github.io/lumafios/fios/fashion-raion/): 80% rayon · 20% poliamida; 2/50 Nm; 40,00 Tex / 400,00 dtex.
+
+## Biblioteca
+- [Pontos, técnicas e processos da malharia retilínea](https://glarmelina-wq.github.io/lumafios/biblioteca/pontos-e-estruturas-de-malharia-retilinea/)
+- [Como ler o título de um fio: Nm, Tex, dtex e denier](https://glarmelina-wq.github.io/lumafios/biblioteca/como-ler-titulo-fio-nm-tex-dtex/)
+- [Como selecionar fios para galgas 12, 14, 16 e 18](https://glarmelina-wq.github.io/lumafios/biblioteca/como-escolher-fio-para-galga-shima-seiki/)
+- [Viscose e rayon na malharia retilínea: pontos de atenção](https://glarmelina-wq.github.io/lumafios/biblioteca/viscose-rayon-na-malharia-retilinea/)
+- [Fios com elastano: tensão, alongamento e recuperação](https://glarmelina-wq.github.io/lumafios/biblioteca/fios-com-elastano-tensao-e-recuperacao/)
+- [Tingimento de fios: cor, lote e aprovação de amostras](https://glarmelina-wq.github.io/lumafios/biblioteca/tingimento-de-fios-cores-lotes-e-solidez/)
+- [Como especificar um fio para cotação ou desenvolvimento](https://glarmelina-wq.github.io/lumafios/biblioteca/como-especificar-fio-para-cotacao/)
