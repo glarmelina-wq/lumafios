@@ -28,3 +28,13 @@
 - [Fios com elastano: tensão, alongamento e recuperação](https://glarmelina-wq.github.io/lumafios/biblioteca/fios-com-elastano-tensao-e-recuperacao/)
 - [Tingimento de fios: cor, lote e aprovação de amostras](https://glarmelina-wq.github.io/lumafios/biblioteca/tingimento-de-fios-cores-lotes-e-solidez/)
 - [Como especificar um fio para cotação ou desenvolvimento](https://glarmelina-wq.github.io/lumafios/biblioteca/como-especificar-fio-para-cotacao/)
+
+## Desenvolvimento com fibras e misturas sob consulta
+Consultas com liocel, micro modal, viscose de bambu, viscose LENZING™ ECOVERO™, linho, cânhamo e lã são avaliadas conforme matéria-prima, documentação e viabilidade. Referências de misturas: viscose/lã 85/15, viscose/linho, algodão/linho, algodão/viscose, viscose/cânhamo e linho/elastano. Não representam linhas adicionais em estoque, exclusividade nacional ou certificação da Luma.
+
+## Avaliação de pilling e amostras
+A Luma recebe consultas sobre tratamentos para redução de pilling e disponibilidade de amostras. Compatibilidade, quantidade, custo, envio e prazo dependem de confirmação. O desempenho deve ser avaliado na malha acabada com método e critério acordados; não há garantia universal de ausência de bolinhas em todos os fios ou após qualquer lavagem.
+
+- [Viscose, ECOVERO™, liocel e modal na malharia retilínea](https://glarmelina-wq.github.io/lumafios/biblioteca/viscose-ecovero-liocel-modal-malharia-retilinea/)
+- [Como reduzir o pilling no tricô: fio, estrutura e acabamento](https://glarmelina-wq.github.io/lumafios/biblioteca/como-reduzir-pilling-no-trico/)
+- [Linho e cânhamo no tricô de verão: misturas e tecimento](https://glarmelina-wq.github.io/lumafios/biblioteca/linho-canhamo-misturas-trico-verao/)
