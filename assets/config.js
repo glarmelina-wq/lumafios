@@ -1,7 +1,7 @@
 /* CONFIGURAÇÃO CENTRAL — preencha somente canais oficiais e revise privacidade */
 window.LUMA_CONFIG = {
   whatsapp: "551934686082", /* DDI+DDD+número, apenas dígitos; ex.: 5511999999999 */
-  email: "", /* e-mail oficial que realmente recebe pedidos */
+  email: "atendimento@lumafios.com", /* e-mail oficial que realmente recebe pedidos */
   phone: "", /* telefone de atendimento, com DDD */
   city: "Americana – SP", /* confirmar cidade exibida */
   address: "", /* endereço público SOMENTE se quiser mostrar */
